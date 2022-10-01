@@ -14,7 +14,7 @@
 
 <img src="Circuito do semaforo.png">
   
-<h4 align="center">Lista dos componentes que utilizei:</h4>
+<h4 align="center">Lista dos componentes utilizados:</h4>
   
 <img src="componentes.png">
 
