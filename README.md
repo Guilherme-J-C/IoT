@@ -4,6 +4,7 @@ display: flex;
 flex-flow: clumn nowrap;
 justify-content: center;
 align-items: center;
+}
 <header>
 <div class="texto-header">
 <h1>Semáforo de transito de carros e pedestres</h1>
