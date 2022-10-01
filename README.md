@@ -13,5 +13,9 @@
 <h3 align="center">Imagem do Circuito:</h3>
 
 <img src="Circuito do semaforo.png">
+  
+<h4 align="center">Lista dos componentes que utilizei:</h4>
+  
+<img src="">
 
 <a href="Codigo do semaforo.ino">Clique aqui para ver o código</a>
