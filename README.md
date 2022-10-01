@@ -1,6 +1,6 @@
 # IoT
 <header>
-<h1>{align: center;}Semáforo de transito de carros e pedestres</h1>
+<h1 class="titulo principal">Semáforo de transito de carros e pedestres</h1>
   
 <img src="Circuito do semaforo.png">
 
