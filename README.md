@@ -1,5 +1,5 @@
 # IoT
-.texto-header {
+header.texto-header {
 display: flex;
 flex-flow: clumn nowrap;
 justify-content: center;
