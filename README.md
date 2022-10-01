@@ -16,6 +16,6 @@
   
 <h4 align="center">Lista dos componentes que utilizei:</h4>
   
-<img src="">
+<img src="componentes.png">
 
 <a href="Codigo do semaforo.ino">Clique aqui para ver o código</a>
