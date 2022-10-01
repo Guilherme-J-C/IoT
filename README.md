@@ -11,6 +11,7 @@
 >E também tem um botão, que quando é acionado o sinal dos carros fica vermelho e abrir o sinal dos pedestres também emitindo um aviso sonoro e mostra no painel que é seguro utrapassar.
 
 <h3 align="center">Imagem do Circuito:</h3>
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <img src="Circuito do semaforo.png">
-
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <a href="Codigo do semaforo.ino">Clique aqui para ver o código</a>
