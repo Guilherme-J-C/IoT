@@ -1,5 +1,6 @@
 # IoT
-Semáforo de transito de carros e pedestres<header>
+<header>
+<h1>Semáforo de transito de carros e pedestres<h1>
 <img src="Circuito do semaforo.png">
 
 
