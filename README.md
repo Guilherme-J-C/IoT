@@ -13,5 +13,4 @@ E também tem um botão, que quando é acionado o sinal dos carros fica vermelho
 <h3>Imagem do Circuito:</h3>
 <img src="Circuito do semaforo.png">
 
-
 <a href="Codigo do semaforo.ino">Clique aqui para ver o código</a>
