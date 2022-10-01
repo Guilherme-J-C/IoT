@@ -3,7 +3,7 @@
 <header>
 <h1>Semáforo de trânsito de carros e pedestres</h1>
   
-Este circuito tem como finalidade em reproduzir um sistema normal de semáforos(como os utilizados normalmente no mundo), mas esse circuito tem um diferencial, ele tem um sensor de presença que apita e mostra em um painel se é seguro ou não ultrapassar a faixa de pedestre.
+<body>Este circuito tem como finalidade em reproduzir um sistema normal de semáforos(como os utilizados normalmente no mundo), mas esse circuito tem um diferencial, ele tem um sensor de presença que apita e mostra em um painel se é seguro ou não ultrapassar a faixa de pedestre.<body>
   
 <img src="Circuito do semaforo.png">
 
