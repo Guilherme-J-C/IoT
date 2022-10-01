@@ -1,4 +1,6 @@
 # IoT
+header {
+  text-align: center;
 <header>
 <h1 class="titulo-principal">Semáforo de transito de carros e pedestres</h1>
   
