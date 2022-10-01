@@ -3,4 +3,4 @@
 <img src="Circuito do semaforo.png">
 
 
-<img src="semaforo.ino">
+<img src="Codigo do semaforo.ino">
